@@ -120,7 +120,7 @@ style: center
   <!-- Civil Ceremony -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-      Ceremonia Civil
+      Ceremonia Civil y Fiesta
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
