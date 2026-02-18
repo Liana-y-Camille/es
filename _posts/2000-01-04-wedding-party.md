@@ -94,8 +94,7 @@ style: center
   </strong>
 
   <div style="font-size: 1.4em; margin-bottom: 2em;">
-    Los esperamos a las 4:00 p.m. para compartir juntos. <br>
-    La ceremonia empezará a las 4:30 p.m.<br><br>
+    Los esperamos a las 4:00 p.m. para compartir juntos. <br><br>
   </div>
 
   <!-- Image of the attire (centered) -->
@@ -129,7 +128,7 @@ style: center
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    La ceremonia civil se llevará a cabo a las 4:30 p.m. en el mismo lugar que el resto del evento, seguida de un cóctel de recepción, cena y fiesta.<br><br>
+    La ceremonia civil se llevará a cabo en el mismo lugar que el resto del evento, seguida de un cóctel de recepción, cena y fiesta.<br><br>
   </div>
 
   
